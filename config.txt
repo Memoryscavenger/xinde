@@ -1,0 +1,17 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx64e44f985a47b5fa",
+# 公众号appSecret
+"app_secret": "e4608f6c67ee419016679c20cb008868",
+# 模板消息id
+"template_id": "yc4p6vL9O1tCzW3wr8gY_t3jCadYJS3nd3FVCf0M9pA",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["o-1ud6cN-PrMPYOZE2jCl8wcfLzo"]
+"user": ["oucYE5_4-_1piJjv9lCqqRG0ZQyc","oucYE5_4-_1piJjv9lCqqRG0ZQyc"],
+
+# 信息配置
+# 所在省份
+"province": "江苏",
+# 所在城市
+"city": "睢宁",
+
